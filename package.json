@@ -1,0 +1,26 @@
+{
+"name": "securitydaguozhendahai001",
+"version": "1.0.0",
+"description": "This project prioritizes security, considering various security risks in its design and implementation and implementing corresponding protective measures.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/mobleytreston/Security.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "mobleytreston",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
